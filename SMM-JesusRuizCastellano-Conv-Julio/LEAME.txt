@@ -1,0 +1,4 @@
+Dentro de las carpetas de los proyectos NetBeans, he tenido que dejar exclusivamente los directorios con los ficheros fuente (src), ya que si no, ocupaba demasiado espacio y no podía subirlo a Decsai.
+Si lo requiere, pídamelo y sin ningún problema le mando todo lo que necesite a través de otro medio.
+
+Saludos.
